@@ -1,0 +1,232 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "name": "RedMi Note 4X",
+      "value": 12,
+      "cost": 200,
+      "onCart": 0,
+      "category": "Phones",
+      "firm": "Xiaomi",
+      "img": "https://static.svyaznoy.ru/upload/iblock/36a/12333.jpg/resize/483x483/hq/",
+      "mem": 64
+    },
+    {
+      "id": 2,
+      "name": "Фен SC-HD70I25",
+      "value": 6,
+      "cost": 50,
+      "onCart": 0,
+      "category": "Technics",
+      "firm": "Samsung",
+      "img": "https://img.mvideo.ru/Pdb/20030352b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "G960F Galaxy S9 ",
+      "value": 10,
+      "cost": 30,
+      "onCart": 0,
+      "category": "Phones",
+      "firm": "Samsung",
+      "img": "https://cdn2.from.ae/media/catalog/product/cache/image/9df78eab33525d08d6e5fb8d27136e95/0/1/01_146_39.jpg",
+      "mem": 64
+    },
+    {
+      "id": 4,
+      "name": "Пылесос VC860",
+      "value": 7,
+      "cost": 60,
+      "onCart": 0,
+      "category": "Technics",
+      "firm": "LG",
+      "img": "http://s.ek.ua/jpg_zoom1/580624.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Iphone X",
+      "value": 10,
+      "cost": 1000,
+      "onCart": 0,
+      "category": "Phones",
+      "firm": "Apple",
+      "img": "https://www.t-mobile.com/images/png/products/phones/Apple-iPhone-X-Silver/250x270_1.png",
+      "mem": 64
+    },
+    {
+      "id": 6,
+      "name": "LED 40 UE40M",
+      "value": 4,
+      "cost": 1000,
+      "onCart": 0,
+      "category": "TV",
+      "firm": "LG",
+      "img": "https://smadshop.md/image/cache/product/televizory-i-aksessuary/televizory/samsung/led-televizor-40-samsung-ue40m5000auxua-640x960.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Плита FCGW521",
+      "value": 5,
+      "cost": 200,
+      "onCart": 0,
+      "category": "Technics",
+      "firm": "LG",
+      "img": "https://avatars.mds.yandex.net/get-mpic/397397/img_id6453535246635930018.jpeg/9hq"
+    },
+    {
+      "id": 8,
+      "name": "DS Galaxy J3",
+      "value": 6,
+      "cost": 210,
+      "onCart": 0,
+      "category": "Phones",
+      "firm": "Samsung",
+      "img": "https://img.mvideo.ru/Pdb/30028899b.jpg",
+      "mem": 64
+    },
+    {
+      "id": 9,
+      "name": "Чехол Iphone 7S",
+      "value": 20,
+      "cost": 10,
+      "onCart": 0,
+      "category": "Accessories",
+      "firm": "Apple",
+      "img": "https://store.storeimages.cdn-apple.com/4662/as-images.apple.com/is/image/AppleInc/aos/published/images/M/QT/MQTE2/MQTE2?wid=572&hei=572&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1516740189776"
+    },
+    {
+      "id": 10,
+      "name": "VR очки PLAY2",
+      "value": 18,
+      "cost": 50,
+      "onCart": 0,
+      "category": "Accessories",
+      "firm": "Xiaomi",
+      "img": "https://www.ibuygou.com/images/upfilepic201603/2017425141316795.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Мультиварка",
+      "value": 5,
+      "cost": 500,
+      "onCart": 0,
+      "category": "Technics",
+      "firm": "Samsung",
+      "img": "https://static.eldorado.ru/photos/71/711/215/99/new_71121599_l_953.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "LED 64 LD64B604",
+      "value": 15,
+      "cost": 1100,
+      "onCart": 0,
+      "category": "TV",
+      "firm": "Vesta",
+      "img": "http://www.vesta.md/upload_fck/image/products/3801_th.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Iphone 7S",
+      "value": 13,
+      "cost": 700,
+      "onCart": 0,
+      "category": "Phones",
+      "firm": "Apple",
+      "img": "https://store.storeimages.cdn-apple.com/4666/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone7/plus/iphone7-plus-gold-select-2016?wid=513&hei=556&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1472430108712",
+      "mem": 64
+    },
+    {
+      "id": 14,
+      "name": "PowerBank",
+      "value": 15,
+      "cost": 30,
+      "onCart": 0,
+      "category": "Accessories",
+      "firm": "Xiaomi",
+      "img": "https://lakembashop.com.au/wp-content/uploads/2017/04/aa.jpg"
+    },
+    {
+      "id": 15,
+      "name": "LED 64 LD64B530",
+      "value": 12,
+      "cost": 900,
+      "onCart": 0,
+      "category": "TV",
+      "firm": "Vesta",
+      "img": "https://www.maximum.md/content/images/products/53440/1.jpg"
+    },
+    {
+      "id": 16,
+      "name": "LED 40 LD64W",
+      "value": 10,
+      "cost": 1050,
+      "onCart": 0,
+      "category": "TV",
+      "firm": "Vesta",
+      "img": "https://www.maximum.md/content/images/products/39541/3.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Миксер HM09",
+      "value": 15,
+      "cost": 30,
+      "onCart": 0,
+      "category": "Technics",
+      "firm": "LG",
+      "img": "https://www.maximum.md/content/images/products/55623/1.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Ipod",
+      "value": 15,
+      "cost": 60,
+      "onCart": 0,
+      "category": "Accessories",
+      "firm": "Apple",
+      "img": "https://fthmb.tqn.com/8RZ1iuhkiLDlqvln2VBpBLa4RHM=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/iPod-Classic-Both-56a67eb65f9b58b7d0e33eef.png"
+    },
+    {
+      "id": 19,
+      "name": "LCD LD64B",
+      "value": 6,
+      "cost": 800,
+      "onCart": 0,
+      "category": "TV",
+      "firm": "Vesta",
+      "img": "http://rozetka.md/uploads/items/thumb/800/003_113122_122748.jpg"
+    },
+    {
+      "id": 20,
+      "name": " Xiaomi Mi A1",
+      "value": 10,
+      "cost": 300,
+      "onCart": 0,
+      "category": "Phones",
+      "firm": "Xiaomi",
+      "img": "https://i.allo.ua/media/Animated/Mia1/black_xiaomi.png",
+      "mem": 64
+    },
+    {
+      "id": 21,
+      "name": "Чехол GP-A530",
+      "value": 15,
+      "cost": 10,
+      "onCart": 0,
+      "category": "Accessories",
+      "firm": "Samsung",
+      "img": "https://www.maximum.md/content/images/products/53867/1_260.jpg"
+    }
+  ],
+  "firm": [
+    "Samsung",
+    "Xiaomi",
+    "LG",
+    "Apple",
+    "Vesta"
+  ],
+  "category": [
+    "Technics",
+    "TV",
+    "Accessories"
+  ]
+}
